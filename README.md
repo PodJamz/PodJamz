@@ -35,19 +35,26 @@ When I'm not coding or ideating, you'll find me exploring new technologies, push
 
 ### 🧠 The Token Allocation Era
 
-```js
-const allocatingTokens = () => {
-  return {
-    era: "Abundance of Intelligence",
-    philosophy: "It's the era where all your amazing crazy ideas can actually be built",
-    technology: ["AI", "AR/VR", "Three.js", "Voice Interfaces"],
-    status: "Building the future, one wild idea at a time"
-  };
-};
-🚀 Current Explorations
+<div align="center">
+  <h3>Abundance of Intelligence</h3>
+  <p><em>"It's the era where all your amazing crazy ideas can actually be built"</em></p>
+  
+  <div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0;">
+    <span><img src="https://img.shields.io/badge/-AI-FF6F61?style=flat-square&logoColor=white" /></span>
+    <span><img src="https://img.shields.io/badge/-AR/VR-8A2BE2?style=flat-square&logoColor=white" /></span>
+    <span><img src="https://img.shields.io/badge/-Three.js-black?style=flat-square&logoColor=white" /></span>
+    <span><img src="https://img.shields.io/badge/-Voice_Interfaces-5C85D6?style=flat-square&logoColor=white" /></span>
+  </div>
+  
+  <p>Building the future, one wild idea at a time</p>
+</div>
+
+### 🚀 Current Explorations
+
 <div align="center">
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20I'm%20Exploring&showBorder=false&lineCount=3&theme=synthwave&line1=three.js,three.js,61DAFB;react,react,61DAFB;next.js,next.js,000000;&line2=typescript,typescript,3178C6;javascript,javascript,F7DF1E;python,python,3776AB;&line3=ai,artificial%20intelligence,FF6F61;vr,virtual%20reality,8A2BE2;ux,user%20experience,FF6347;" />
 </div>
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Welcome%20to%20the%20token%20allocation%20era%20of%20Abundance%20of%20Intelligence&author=James%20Spalding" width="70%"/>
 </div>
@@ -55,4 +62,3 @@ const allocatingTokens = () => {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
-```
