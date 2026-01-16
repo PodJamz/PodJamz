@@ -1,64 +1,62 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=James%20Spalding&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Building%20wild%20ideas%20into%20reality&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=James%20Spalding&fontSize=78&animation=fadeIn&fontAlignY=38&desc=Creative%20Technologist%20·%20Founder%20·%20Builder&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
 <p align="center">
-  <a href="https://x.com/james__spalding"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://resume-iamai.vercel.app/"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=PodJamz&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+  <a href="https://x.com/james__spalding">
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://jamesspalding.org">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://resume-iamai.vercel.app/">
+    <img src="https://img.shields.io/badge/Resume-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=PodJamz&style=for-the-badge&color=8b5cf6" />
 </p>
 
-## 👋 Hello, I'm James
+---
 
-Startup founder and technical creative from Ireland with a passion for building wild ideas into reality. I thrive at the intersection of creativity and technology, using AI-powered tools to create experiences that genuinely help people.
+## 👋 Hey, I’m James
 
-Currently geeking out over three.js, voice-controlled AI concepts, and navigating what I call "the token allocation era of Abundance of Intelligence" — a time where our amazing, crazy ideas can actually be built.
+I’m a **creative technologist and founder** based in Ireland.  
+I build systems where **imagination meets execution**.
 
-When I'm not coding or ideating, you'll find me exploring new technologies, pushing the boundaries of what's possible, and turning "what if?" into "what's next?"
+My work lives at the intersection of:
+- software engineering  
+- product design  
+- AI-native workflows  
+- and experimental interfaces
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=PodJamz&show_icons=true&theme=synthwave&hide_border=true" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=PodJamz&theme=synthwave&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-</div>
+Right now we’re entering what I call the **Token Allocation Era**:  
+a phase where intelligence is abundant, tools are absurdly powerful, and the real constraint is *taste, clarity, and intent*.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PodJamz&theme=synthwave-84&hide_border=true" width="100%"/>
-</div>
+I spend my time turning high-level ideas into **real, usable systems**.  
+Less theory. More shipped reality.
 
-### 🧠 The Token Allocation Era
+---
+
+## 🧠 The Token Allocation Era
 
 <div align="center">
-  <h3>Abundance of Intelligence</h3>
-  <p><em>"It's the era where all your amazing crazy ideas can actually be built"</em></p>
-  
-  <div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0;">
-    <span><img src="https://img.shields.io/badge/-AI-FF6F61?style=flat-square&logoColor=white" /></span>
-    <span><img src="https://img.shields.io/badge/-AR/VR-8A2BE2?style=flat-square&logoColor=white" /></span>
-    <span><img src="https://img.shields.io/badge/-Three.js-black?style=flat-square&logoColor=white" /></span>
-    <span><img src="https://img.shields.io/badge/-Voice_Interfaces-5C85D6?style=flat-square&logoColor=white" /></span>
-  </div>
-  
-  <p>Building the future, one wild idea at a time</p>
+  <p><em>“When intelligence becomes abundant, direction becomes the scarce resource.”</em></p>
 </div>
 
-### 🚀 Current Explorations
+We’re no longer limited by *whether* something can be built.  
+We’re limited by:
+- what deserves to exist
+- how well it’s shaped
+- and who it actually helps
 
-<div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20I'm%20Exploring&showBorder=false&lineCount=3&theme=synthwave&line1=three.js,three.js,61DAFB;react,react,61DAFB;next.js,next.js,000000;&line2=typescript,typescript,3178C6;javascript,javascript,F7DF1E;python,python,3776AB;&line3=ai,artificial%20intelligence,FF6F61;vr,virtual%20reality,8A2BE2;ux,user%20experience,FF6347;" />
-</div>
+That’s the space I work in.
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Welcome%20to%20the%20token%20allocation%20era%20of%20Abundance%20of%20Intelligence&author=James%20Spalding" width="70%"/>
-</div>
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-</div>
+## 🔬 Current Focus
+
+```txt
+• AI-native product design
+• Voice-first and multimodal interfaces
+• Three.js & real-time visual systems
+• Agent orchestration & context management
+• Rapid prototyping with taste
