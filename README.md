@@ -1,54 +1,97 @@
 <div align="center">
 
-# S P A L D I N G
-### UNIT: CT-01 │ REV: 2026.02 │ SERIAL: IE-DUB-001
+# James Spalding
+### Dublin · Full-Stack Engineer · Founder, 8GI
 
 [![X](https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/james__spalding)
 [![Web](https://img.shields.io/badge/WEB-000000?style=flat-square&logo=vercel&logoColor=white)](https://jamesspalding.org)
-[![Resume](https://img.shields.io/badge/CV-181717?style=flat-square&logo=github&logoColor=white)](https://resume-iamai.vercel.app/)
+[![8gent](https://img.shields.io/badge/8gent.world-FF6B00?style=flat-square)](https://8gent.world)
 ![Views](https://komarev.com/ghpvc/?username=PodJamz&style=flat-square&color=FF6B00)
 
 </div>
 
 ---
 
-![PodJamz Contribution Engine](./perfect_isometric_view.png)
+```
+The honest version of how this started:
+
+  My son is autistic and nonverbal.
+
+  AAC devices that give kids like him a voice cost $5,000+.
+  That's not a product problem. That's a values problem.
+
+  So I decided to build one. Free. Forever.
+
+  The catch: to do it properly — local, private, fast enough to run
+  on a tablet, smart enough to learn his patterns — I needed
+  infrastructure that didn't exist yet.
+
+  I needed a local LLM runtime.
+  Then an agent harness to orchestrate it.
+  Then memory so it remembered him session to session.
+  Then a deployment layer to ship it to other families at zero cost.
+  Then a revenue model that didn't involve charging those families.
+
+  That's how I ended up building an entire AI operating system
+  just to give one child a voice.
+
+  And then realised I'd built something much bigger than that.
+```
+
+---
+
+## 8GI — The 8gent Innovation Foundation
+
+```
+Three products. One infrastructure. One reason.
+```
+
+| Product | What | Who | Model |
+|---------|------|-----|-------|
+| **[8gent Code](https://8gent.world/docs)** | Local-first AI coding agent. Persistent memory. Runs on Ollama, no API keys. | Developers who want an AI that actually learns their codebase | Free · Open source |
+| **8gent OS** | Personal AI operating system. One AI that knows you, replaces your SaaS subscriptions. | Knowledge workers drowning in tools | Paid subscription |
+| **8gent Jr** | AAC system for nonverbal autistic children. Learns your child's patterns. Runs locally, private, no cloud. | Families who can't afford $5K devices | Free · Forever |
+
+> OS revenue funds Jr. Code community builds trust. Each channel feeds the others.
+
+---
+
+```
+Why own the full stack?
+
+  "Free forever" is not a pricing strategy. It's a constraint.
+
+  That constraint has a logic to it:
+
+  Can't charge families
+    → must be cheap to run
+      → local inference, no per-session API cost
+        → need a harness that works with small models
+          → optimize the scaffold, not the weights
+            → build your own agent framework
+              → control memory, tools, routing, everything
+                → serve a thousand families for the cost of one server
+
+  The limitation became the architecture.
+  The architecture became the product.
+  The product became a platform.
+```
 
 ---
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════╗
-║  ACTIVE MODULES                                              CT-01   ║
+║  8GI ECOSYSTEM                                              [LIVE]   ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║   [00] JamesOS Portfolio       145-page iOS Core. 52 themes.         ║
-║   [01] Unbreakable Pipeline    Beat-synced animation. Remotion.      ║
-║   [02] NickOS AAC System       323-phrase sensory/learning games.    ║
-║   [03] Lynkr Local AI Proxy    Ollama + Whisper via CF Tunnel.       ║
-║   [04] Voice Call Infra        Real-time LiveKit conversations.      ║
-║   [05] Social Automation       AI-drafted scheduling (Postiz).       ║
-║   [06] Discovery Agent         Twilio → Deepgram → AI James.         ║
-║   [07] Vibe Picker             Design system URL extractor.          ║
-║   [08] ACE-Step Music Gen      Local commercial music engine.        ║
-║   [09] Dogfood QA System       Agent-browser systematic testing.     ║
+║   8gent.world       Public face, docs, media, officer profiles       ║
+║   8gent-code        The harness. Local agent runtime. Guild.         ║
+║   8gent Jr          AAC for autistic children. 323+ phrases.         ║
+║   FoodstackOS       Vertical AI for food industry operators          ║
+║   AI James OS       My personal AI operating system (parent)         ║
 ║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║  SYSTEM SPECS [PORTFOLIO CORE]                               v2.6    ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║   PAGES: 145 unique routes      CONVEX: 114 production tables        ║
-║   APPS:  64 top-level dirs      AI TOOLS: 121 tool definitions       ║
-║   THEMES: 52 dynamic skins      HOOKS: 41 custom primitives          ║
-║                                                                      ║
-║   BASE     Next.js 16 · React 19 · Convex · TypeScript              ║
-║   MEDIA    Remotion · ComfyUI · Fal AI · LiveKit                    ║
-║   AI       Ollama · Anthropic · Deepgram · 1536-dim Vector           ║
-║                                                                      ║
-║   FREQ ▰▰▰▰▰▰▰▰▰▱  GAIN ▰▰▰▰▰▰▰▱▱▱                                  ║
+║   Officers: 8EO · 8TO · 8DO · 8PO · 8CO · 8SecO · 8GO · 8SO        ║
+║   Each runs a vessel. Each vessel runs a daemon. Mesh connected.     ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
@@ -57,9 +100,7 @@
 
 <div align="center">
 
-### `CONTRIBUTION ENGINE LOG`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PodJamz&bg_color=0d0d0d&color=FF6B00&line=FF6B00&point=ffffff&area=true&area_color=FF6B0033&hide_border=true&custom_title=DATA%20IN%20%E2%94%82%20GH-01" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PodJamz&bg_color=0d0d0d&color=FF6B00&line=FF6B00&point=ffffff&area=true&area_color=FF6B0033&hide_border=true&custom_title=Contribution+Activity" width="95%" />
 
 </div>
 
@@ -67,52 +108,30 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════╗
-║  TECHNICAL LOG ENTRIES                                        [IO]   ║
+║  STACK                                                               ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║   [2026-02-24] 145 pages. 52 themes. 121 AI tools. 114 Convex        ║
-║                tables. If this is "just a resume," then a            ║
-║                Swiss Army knife is "just a knife."                   ║
-║                                                                      ║
-║   [2026-02-24] SchoolTube Deployed. 30+ games for autism sensory     ║
-║                learning. Sensory play to production loop closed.     ║
-║                                                                      ║
-║   [2026-02-08] Unbreakable Episode 1 Pipeline. Beat analysis to      ║
-║                Remotion assembly complete. Professional output.      ║
+║   Runtime   Bun · Next.js 16 · React 19 · TypeScript                 ║
+║   AI        Ollama (local) · Anthropic Claude · Gemini OpenRouter    ║
+║   Memory    Tiered: hot context → semantic retrieval → cold archive  ║
+║   Data      Convex (114 production tables) · SQLite local            ║
+║   Voice     ElevenLabs · Deepgram · LiveKit real-time                ║
+║   Agents    8+ officers · vessel daemons · Tailscale mesh            ║
+║   Deploy    Vercel · Fly.io · self-hosted                            ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║  AI JAMES [THE DIGITAL TWIN]                                  O/C/V  ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║   PERSONALITY: Irish creative technologist | non-corporate           ║
-║   TOOLS: 121 callable browser/system functions                       ║
-║   MEMORY: Recursive Episodic + Semantic Layer                        ║
-║   VOICE: ElevenLabs + OpenAI (Full STT/TTS Pipeline)                 ║
-║   ACCESS: Multi-tier (Owner / Collaborator / Visitor)                ║
-║                                                                      ║
-║   ┌─USB-C─┐  ┌─MIDI─┐  ┌─SYNC─┐  ● PWR                               ║
-║   └───────┘  └──────┘  └──────┘                                      ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
 <div align="center">
 
-```text
-╔══════════════════════════════════════╗
-║                                      ║
-║  "12 agents. One recursive loop.     ║
-║   The system maintains itself."      ║
-║                                      ║
-║  PODJAMZ™  ·  2026                   ║
-║                                      ║
-╚══════════════════════════════════════╝
 ```
+"I needed to give my son a voice.
+ I ended up building the infrastructure
+ to give anyone one."
+```
+
+**[8gent.world](https://8gent.world)** · Dublin, Ireland · 2026
 
 </div>
